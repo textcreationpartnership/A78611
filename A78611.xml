@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A charitable design recommended for erecting free-schools of pious education, for training up poor children in the principles of Christianity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78611</idno>
+            <idno type="STC">Wing C2066</idno>
+            <idno type="STC">ESTC R171154</idno>
+            <idno type="EEBO-CITATION">47682820</idno>
+            <idno type="OCLC">ocm 47682820</idno>
+            <idno type="VID">172779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2649:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A charitable design recommended for erecting free-schools of pious education, for training up poor children in the principles of Christianity.</title>
+               </titleStmt>
+               <extent>2, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Brudenell in Jewin-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon (p. 2).</note>
+                  <note>Includes: The orders of a school for poor boys.</note>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charity-schools --  England --  Early works to 1800.</term>
+               <term>Social work with children --  England --  Early works to 1800.</term>
+               <term>Religious education of children --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:172779:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 7 -->
+                  <head>A CHARITABLE DESIGN Recommended for Erecting FREE-SCHOOLS <hi>Of Pious Education,</hi> For Training up POOR CHILDREN IN THE Principles of Chriſtianity.</head>
+                  <p>WHEREAS ſome well diſpoſed Perſons, laying to Heart the miſerable Ig<g ref="char:EOLhyphen"/>norance of the poorer ſort of People, whereby is occaſioned that Diſſolution of Manners which generally prevails among them, have of late endeavoured to pro<g ref="char:EOLhyphen"/>mote a Charitable deſign of ſetting up Free-Schools of pious Education, in ſeveral Pariſhes of <hi>London</hi> and <hi>Weſtminſter,</hi> for the Benefit only of poor Children; FOR the encouragement and ſatisfaction of all that are or may be concerned in ſo good a Work, It is thought fit to give here a ſhort Account; Of the Manner of the Foundation; The nature of the Schools, and the Methods taken for the effectual management of the Schools, and Contributions to the ends propoſed.</p>
+                  <p>The Foundation that is laid for the Maintenance of the Maſter and Charge of the School, is by the voluntary Subſcription of Charitable Perſons, who oblige themſelves thereby to pay during pleaſure, a certain Sum Yearly, by Quarterly Payments towards it. For this purpoſe there is a Roll with a preamble, ſpecifying the intention of the Subſcribers which is offered to any one that is diſpoſed to ſubſcribe.</p>
+                  <p>The Schools are deſigned chiefly for training up the Children in the fear of God, and the Knowledge of the principles of Chriſtianity, and at the ſame time for teaching them to read well in the Bible, to Write and caſt Accompt as far as each one is capable, or need requires to fit them for Apprenticeſhip.</p>
+                  <p>As to the management of them, there is generally about Seven of the Subſcribers (whereof one is the Miniſter of the Pariſh) faithful and diſcreet Perſons, who are entruſted by the Ap<g ref="char:EOLhyphen"/>probation of the reſt, to chooſe the Maſter, to Overſee and direct the School, to receive and col<g ref="char:EOLhyphen"/>lect all Money given or ſubſcribed upon that Account, <hi>in their ſeveral Pariſhes,</hi> and thereout from time to time to defray the neceſſary Charge of the School; <hi>&amp;c.</hi> reſerving the Over-plus in Bank to be employed to the beſt advantage of the poor Children, either for Cloathing or putting them out Apprentice; a fair Account of all which they are obliged to keep to be viewed by any other of the Subſcribers upon occaſion.</p>
+                  <pb n="2" facs="tcp:172779:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 8 -->
+                  <p>In order to the chooſing a good Maſter, ſuch an one as may be moſt likely to anſwer the ends propoſed, the Truſtees require in him theſe following Qualifications.</p>
+                  <list>
+                     <item>I. That he be a Member of the Church of <hi>England,</hi> of a Sober Life and Conver<g ref="char:EOLhyphen"/>ſation.</item>
+                     <item>II. One that frequents the Communion at leaſt once a Month.</item>
+                     <item>III. One that keeps good Orders in his Family (if he have one).</item>
+                     <item>IV. One that has the Government of himſelf and his Paſſions.</item>
+                     <item>V. One of a ſolid Judgment, and good Genius for Teaching.</item>
+                     <item>VI. One that's well grounded in the true Principles of Chriſtianity, ſo as to give a good Account of himſelf to the Miniſter of the Pariſh upon Examination.</item>
+                     <item>VII. That he be ſufficiently provided with a good Writing-Hand, and the Grounds of <hi>Arithmetick.</hi>
+                     </item>
+                  </list>
+                  <p>The Truſtees do alſo repreſent to the Maſter, that the chief end of the School being to inſtruct young Children in the Grounds of the Chriſtian Religion; he is required to take particular Care and Pains as to that matter for the good of their Souls, by frequent Cate<g ref="char:EOLhyphen"/>chizing, Exhortation, Reproof, <hi>&amp;c.</hi>
+                  </p>
+                  <p>As to the manner of chooſing the poor Children into the School, that there be no Con<g ref="char:EOLhyphen"/>fuſion nor Diſlike taken at any Proceedings therein; any one of the Subſcribers may have the liberty of recommending a poor Boy in the Pariſh againſt a day appointed by the Truſtees, at which time, if there be more than the Number mentioned to be taken (that upon Examination are found to be equally <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eal Objects) there ſhall be as many Billets pre<g ref="char:EOLhyphen"/>pared as Objects propoſed; upon Fifty of which there ſhall be written the word CHARITY, or ſome ſuch Motto, after which being all rouled up and ſhaken together, the Boys ſhall e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch of them take out a Billet, and thoſe Fifty Boys who draw the Charity Bills are to be admitted into the School.</p>
+                  <p>
+                     <hi>There are ſeveral Schools already erected upon this Foundation for Boys, and others fol<g ref="char:EOLhyphen"/>lowing the good Examples ſet before them, are alſo endeavouring to promote a</hi> School <hi>of the ſame Nature for the Education of poor  <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>  in the Pariſh of  <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>  And 'tis hoped that there will he a general Encouragement given to this Noble deſign, ſo as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o improve it to the univerſal Benefit of this Nation, which cannot ſure be wanting from all who conſider that as Charity is the beſt of Works, ſo this ſort of Charity that is employed about the Religious Education of Youth, is the beſt of Charity's.</hi>
+                  </p>
+                  <closer>SOLI DEO GLORIA.</closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Printed by <hi>J. Brudenell,</hi> in <hi>Jewin-ſtreet,</hi> 1699.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:172779:2"/>
+                  <!-- PDF PAGE 8 -->
+                  <head>THE ORDERS OF A SCHOOL <hi>For Poor</hi> BOYS.</head>
+                  <p>IT being evident enough, that when <hi>Children</hi> are left by themſelves, they are apt to learn of one another naughty Tricks; The <hi>Maſter</hi> is required to be conſtant<g ref="char:EOLhyphen"/>ly in the School at the Hours appointed to keep them in order, and from tune to time to obſerve and correct their Behaviour.</p>
+                  <p>The Scholars ſhall come to <hi>School</hi> at Eight in the Morning in Winter time, and at Seven in Summer, and to continue there till Eleven; in the Afternoon they ſhall be there at One and not be diſmiſs'd till Four in <hi>Winter,</hi> and at Five in the <hi>Summer,</hi> at which times the <hi>Maſter</hi> ſhall ſtrictly require their Attendance, ſo that if any of them without Leave or juſt cauſe ſhall abſent themſelves they ſhall firſt be corrected, and afterwards if they ſtill neglect to come, they ſhall be then diſmiſt the <hi>School.</hi>
+                  </p>
+                  <p>The <hi>Maſter</hi> ſhall teach the Boys to Spell and Read well in the Bible, and afterwards to Write and caſt Accompt, as they are capable, in order to qualifie them for ſervice or apprenticeſhip.</p>
+                  <p>And to the end the deſign of the School (which is chiefly for promoting Chriſtian Knowledge and Diſcipline) be fully anſwered as far as may be; let the <hi>Maſter</hi> fre<g ref="char:EOLhyphen"/>quently conſider the Charge that lyes upon him, and by what means he may improve the Children under his Care; let him therefore ſet apart two days in the Week to teach them their Catechiſm perfectly and diſtinctly, and for variety, ſome part of the Reading or Singing Pſalms, or of a Practical Chapter in the Old or New Teſtament, taking a little Pains at ſuch times to make things plain to their Underſtandings, and applying it alſo according to each ones particular Condition. Let him diligently ſtudy their Inclinations, and from time to time to reform what he finds amiſs in them by Admonition and Report, and ſometimes by ſevere Correction where the Faults require it, ſuch as thoſe of Lying, Stealing, <hi>&amp;c.</hi> wherein if they remain incorrigible they ſhall be diſmiſt the School.</p>
+                  <p>The <hi>Maſter</hi> ſhall uſe Prayers, ſuch as ſhall be appointed him by the Truſtees, every Morning and Evening publickly in the School, the Children being all preſent; he ſhall alſo teach them their private Prayers to be us'd conſtantly at home, when they Riſe and when they go Bed. The <hi>Maſter</hi> ſhall alſo bring the Boys to Church once a day at leaſt, if there be opportunity.</p>
+                  <p>Thoſe that are to be admitted into this <hi>School,</hi> are to be only ſuch as are real Ob<g ref="char:EOLhyphen"/>jects or <hi>Charity</hi> in the Pariſh, not exceeding the number of Fifty Boys.</p>
+                  <p>That poor Children only, whoſe Parents are not able to afford them any Learning, may receive the full Benefit of the School. It is required of the <hi>Maſter,</hi> that he teach no other Scholla<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s than thoſe appointed him, under the penalty of forfeiting his Place.</p>
+                  <p>The Parents are to keep their Children clean, waſh'd and comb'd; leaſt they prove offen<g ref="char:EOLhyphen"/>ſive by Vermine or Noyſome Smells.</p>
+                  <p>Theſe or any other Orders to be made by the Truſtees, ſhall be Written in a Fair Legi<g ref="char:EOLhyphen"/>ble Hand, and read over publickly in the School Four Times a Year.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb n="2" facs="tcp:172779:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 9 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:172779:3"/>
+                  <!-- PDF PAGE 9 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
